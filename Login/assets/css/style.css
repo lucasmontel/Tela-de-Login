@@ -1,0 +1,67 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.direita{
+    background-color:#01adf5 ;
+}
+
+.telinha{
+    display: block;
+    position: absolute;
+    background-color:#01adf5;
+    color: white;
+    border-radius: 0.5rem;
+    margin-left: 55%;
+    bottom: 30%;
+    width: 15rem;
+    height: 16.5rem;
+    padding: 1.0rem;
+
+}
+
+
+
+.esquerda{
+    background-image: url("https://img.freepik.com/vetores-gratis/astronauta-bonito-montando-foguete-e-acenando-a-mao-dos-desenhos-animados-icone-ilustracao-conceito-de-icone-de-tecnologia-cientifica_138676-2130.jpg");
+    float: left ;
+    width: 50%;
+    height: 100%;   
+    padding-bottom:45%;    
+    background-size: 70%; background-position: center;
+    background-repeat: no-repeat; 
+}
+
+input{
+    height:2.5rem ;
+    padding: .5rem;
+    width: 93.5%;
+    border-radius: .5em;
+    border: rgb(255, 255, 255);
+    font-size: 1.2rem;
+}
+
+button{
+    margin-top: 3.8em;
+    height: 2.8rem;
+    border-radius: .5em;
+    width: 15rem;
+    background-color: #0ecc90;
+    border: #143c6b;
+}
+
+
+
+
+
+
+
+body{
+ background-color: #96c6fe;
+ color: rgb(0, 0, 0);    
+ overflow: hidden;
+}
+
+
+
+
